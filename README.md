@@ -18,7 +18,7 @@
 ![img](https://github.com/Programming-Heiro/GDOU-ARProject/blob/master/GDOU-ARProject/screenshots/2.gif)
 ### 场景清空和设置恢复等操作
 
-![img](https://github.com/Programming-Heiro/GDOU-ARProject/blob/master/GDOU-ARProject/screenshots/2.gif)
+![img](https://github.com/Programming-Heiro/GDOU-ARProject/blob/master/GDOU-ARProject/screenshots/3.gif)
 
 
 ## Author
