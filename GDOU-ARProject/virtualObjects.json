@@ -1,0 +1,14 @@
+{
+  "chick": {
+    "name" : "chick",
+    "path":"model/asserts"
+  },
+  "duck": {
+    "name" : "duck",
+    "path":"model/asserts"
+  },
+  "goldfish": {
+    "name" : "goldfish",
+    "path":"model/asserts"
+  }
+}
