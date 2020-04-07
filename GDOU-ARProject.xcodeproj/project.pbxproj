@@ -103,6 +103,7 @@
 		A576CFA91FBC5C5E00F9AE2F = {
 			isa = PBXGroup;
 			children = (
+				A55BD8F5243B2397007DEF25 /* README.md */,
 				A576CFB41FBC5C5E00F9AE2F /* GDOU-ARProject */,
 				A576CFB31FBC5C5E00F9AE2F /* Products */,
 			);
@@ -130,7 +131,6 @@
 				A576CFBE1FBC5C5E00F9AE2F /* Assets.xcassets */,
 				A576CFC01FBC5C5E00F9AE2F /* LaunchScreen.storyboard */,
 				A576CFC31FBC5C5E00F9AE2F /* Info.plist */,
-				A55BD8F5243B2397007DEF25 /* README.md */,
 			);
 			path = "GDOU-ARProject";
 			sourceTree = "<group>";
